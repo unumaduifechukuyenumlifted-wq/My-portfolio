@@ -4,19 +4,10 @@ Portfolio of **Unumadu Ifechukuyenum Lifted** — UI/UX designer.
 A modern, gen-z styled single-page site with live, tappable Figma prototypes
 (ZENITH, CHAIN FLOW, SIGMAFLOW AI) embedded in a phone frame.
 
-## 📚 StudyFlow — AI Study Planner
+## 📚 StudyFlow
 
-This repo also contains **[StudyFlow](studyflow/)** — a fully functional,
-installable mobile web app (PWA) that helps university students organize
-courses, assignments, exams, study sessions and daily tasks, with an
-AI study assistant (Flow AI) and persistent local storage.
-
-```bash
-cd studyflow && python3 -m http.server 8000 --bind 0.0.0.0
-# open http://localhost:8000
-```
-
-See [studyflow/README.md](studyflow/README.md) for the full feature list.
+StudyFlow — my AI-powered study planner app — now lives in its own
+repository: **[STUDY-FLOW](https://github.com/unumaduifechukuyenumlifted-wq/STUDY-FLOW)** 🚀
 
 ## Run locally
 
